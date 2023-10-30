@@ -9,51 +9,6 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
-    },
-    {
-      "dogName": "byron",
-      "dogBreed": "poodle",
-      "id": 3
-    },
-    {
-      "dogName": "byron",
-      "dogBreed": "ROTWEILER",
-      "id": 4
-    },
-    {
-      "dogName": "CALEB",
-      "dogBreed": "ROTWEILER",
-      "id": 5
-    },
-    {
-      "dogName": "cindy",
-      "dogBreed": "CHIhuahua",
-      "id": 6
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 7
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 8
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 9
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 10
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 11
     }
   ],
   "cats": [
@@ -70,24 +25,19 @@
   ],
   "users": [
     {
-      "id": 1,
-      "name": "Benny",
-      "email": "bhinnofficial@gmail.com"
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 1
     },
     {
-      "name": "Chris",
-      "email": "chris@gmail.com",
+      "name": "Sam",
+      "email": "sam@sam.com",
       "id": 2
     },
     {
-      "name": "Chris",
-      "email": "chris@gmail.com",
+      "name": "Jim",
+      "email": "jim@jim.com",
       "id": 3
-    },
-    {
-      "name": "Melky",
-      "email": "melky@gmail.com",
-      "id": 4
     }
   ],
   "robots": [
